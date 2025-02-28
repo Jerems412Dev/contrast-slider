@@ -10,4 +10,4 @@ It's simple Contrast Slider.
 
 ## Link
 
-Here's a [link]() for Demo website
+Here's a [link](https://contrast-slider.vercel.app/) for Demo website
